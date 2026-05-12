@@ -20,7 +20,7 @@ Aplicação em **Java com Spring Boot** para gerenciar artistas e músicas, com 
 - **Java 17+**
 - **Spring Boot 3**
 - **Spring Data JPA** (persistência)
-- **PostreeSQL** (banco em memória para testes)
+- **PostgresSQL** 
 - **Maven**
 - **OpenAI API** (para pesquisa de artistas)
 
